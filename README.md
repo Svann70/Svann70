@@ -17,8 +17,9 @@ Hi! I'm **Robby**, a passionate learner and creator who enjoys building things w
 **Languages & Fundamentals**
 
 * HTML, CSS, JavaScript
+* C++
 * PHP
-* Python (basic–intermediate)
+* Python
 
 **Tools & Concepts**
 
