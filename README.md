@@ -3,7 +3,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **Robby**, a passionate learner and creator who enjoys building things with code, exploring new technologies, and turning ideas into real projects. I’m especially interested in **software development**, **UI/UX**, and **problem-solving through programming**.
+Hi! I'm **Ivander**, a passionate learner and creator who enjoys building things with code, exploring new technologies, and turning ideas into real projects. I’m especially interested in **software development**, **UI/UX**, and **problem-solving through programming**.
 
 * 🎓 Undergraduate Student of Cakrawala University
 * 💻 Interested in Software engineering, UI/UX 
