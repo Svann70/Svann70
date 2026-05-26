@@ -38,7 +38,8 @@ Hi! I'm **Ivander**, a passionate learner and creator who enjoys building things
 * Improving my UI/UX Design
 * Preparing myself for internships & future tech careers
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Svann70&theme=tokyonight)](https://git.io/streak-stats)
+## Github Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Svann70&theme=tokyonight&hide_border=true&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 ---
 
 ## 🎯 Goals
