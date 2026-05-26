@@ -38,7 +38,7 @@ Hi! I'm **Ivander**, a passionate learner and creator who enjoys building things
 * Improving my UI/UX Design
 * Preparing myself for internships & future tech careers
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Svann70)](https://github.com/Svann70/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Svann70&commits_year=2020)
 ---
 
 ## 🎯 Goals
